@@ -1,0 +1,42 @@
+export const Questions = [
+  {
+    prompt: "Which framework is better than Electron ?",
+    optionA: "Node.js",
+    optionB: "NW.js",
+    optionC: "Neutralino.js",
+    optionD: "none",
+    answer: "C",
+  },
+  {
+    prompt: "Which framework is used to build frontend apps ?",
+    optionA: "PHP",
+    optionB: "React.js",
+    optionC: "Django",
+    optionD: "Node.js",
+    answer: "B",
+  },
+  {
+    prompt: "What is React.Js ? ",
+    optionA: "Function",
+    optionB: "Framework",
+    optionC: "Brand",
+    optionD: "Library",
+    answer: "D",
+  },
+  {
+    prompt: "What is build size of Neutralino.Js?",
+    optionA: "2Mb",
+    optionB: "20Mb",
+    optionC: "20Gb",
+    optionD: "2Tb",
+    answer: "A",
+  },
+  {
+    prompt: "Which of the following is not a Database ?",
+    optionA: "Redis",
+    optionB: "Alexandra",
+    optionC: "Cassandra",
+    optionD: "Astra",
+    answer: "B",
+  },
+];
